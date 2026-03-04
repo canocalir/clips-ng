@@ -1,0 +1,13 @@
+{
+  "id": "03ec0906-cb84-440b-aa4f-c8f500620957",
+  "label": "nexaki.net",
+  "type": "DOMAIN",
+  "description": "Target: nexaki.net (United States)",
+  "metadata": {
+    "url": "nexaki.net",
+    "country": "United States",
+    "active": true,
+    "monitorFrequency": "1h"
+  },
+  "exportedAt": "2026-02-25T15:01:20.651Z"
+}
